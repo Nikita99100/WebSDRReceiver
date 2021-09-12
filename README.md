@@ -1,3 +1,3 @@
-#It's difficult to explain what I'm trying to do here.
-##But I'll try:)
-I am an amateur radio operator, and after I moved to another city, I could no longer listen to the radio because of interference. But I want it! The only option: websdr receivers (http://www.websdr.org/). But it is very boring to listen to the radio through a computer. My solution: To assemble a "radio receiver" using arduino, nodemcu and raspberryPi and connect it to the websdr receiver. 
+# It's difficult to explain what I'm trying to do here.
+**But I'll try:)**
+<p>I am an amateur radio operator, and after I moved to another city, I could no longer listen to the radio because of interference. But I want it! The only option: websdr receivers (http://www.websdr.org/). But it is very boring to listen to the radio through a computer. My solution: To assemble a "radio receiver" using arduino, nodemcu and raspberryPi and connect it to the websdr receiver. </p>
