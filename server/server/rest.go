@@ -20,4 +20,4 @@ func (r *Rest) Route() {
 	route.POST("/receiver/set_settings",r.SetSettings)
 	route.POST("/receiver/set_mode",r.SetMode)
 	route.POST("/receiver/set_freq",r.SetFreq)
-	}
+}
