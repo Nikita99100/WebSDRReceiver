@@ -2,6 +2,7 @@ package server
 
 import (
 	"github.com/labstack/echo/v4"
+	"github.com/Nikita99100/WebSDRReceiver/server/handler"
 )
 
 const apiPrefix = "/api/v1"
